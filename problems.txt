@@ -1,0 +1,35 @@
+Ruby Basics I:
+1. Word count (Array.reduce) - Easy
+2. Roman Numerals (transforming) - Easy
+3. Bob (control flow) - Easy
+4. Beer Song (range) - Easy
+5. Raindrops (conditionals) - Easy
+6. Secret Handshake (binary) - Easy
+7. Flatten Array (recursion) - Easy
+
+Ruby Basics II:
+8. List Ops (functional programming) - Easy
+9. Change (algorithms) - Medium
+10. Binary Search Tree (recursion) - Medium
+11. Simple Linked List (arrays) - Medium
+
+Elixir Basics I:
+1. Word count (Enum.reduce) - Easy
+2. Roman Numerals (pattern matching) - Easy
+3. Bob (control flow) - Easy
+4. Beer Song (range) - Easy
+5. Raindrops (conditionals) - Easy
+6. Secret Handshake (binary) - Easy
+7. Flatten Array (recursion) - Easy
+
+Elixir Basics II:
+8. List Ops (functional programming) - Medium
+9. Change (algorithms) - Medium
+10. Robot simulator (defstruct) - Medium
+11. Bank Account (OTP) - Medium
+
+Bonus challenges:
+- Gigasecond (time-handling) - Easy
+- Clock (integer logic) - Medium
+- Ruby: Robot simulator (concurrency) - Medium
+- Elixir: Markdown (refactoring) - Medium
